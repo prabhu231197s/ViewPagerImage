@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="backgroung_blue">#3b5998</color>
+    <color name="ninja">#309229</color>
+    <color name="ninja2">#60a844</color>
+</resources>
